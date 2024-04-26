@@ -72,23 +72,23 @@ Use the trained models in the models/ directory to make predictions or generate 
 Refer to the documentation and comments within the code for detailed explanations of each step.
 
 # Steps involved
-## 1. EDA
+### 1. EDA
 
-## 2. Feature selection
+### 2. Feature selection
 
-## 3. Various Statistical Analysis
+### 3. Various Statistical Analysis
 
-## 4. Hypothesis Testing
+### 4. Hypothesis Testing
 
-## 5. Selecting Appropriate ML Algorithm to predict the selected target variable
+### 5. Selecting Appropriate ML Algorithm to predict the selected target variable
 
-## 6. Building Model
+### 6. Building Model
 
-## 7. Training
+### 7. Training
 
-## 8. Testing & Evaluation
+### 8. Testing & Evaluation
 
-## 9. Conclusion
+### 9. Conclusion
 
 Acknowledgments
 We would like to express our gratitude to the organizations and individuals who have collected and shared the data used in this project. Additionally, we acknowledge the contributions of the open-source community, whose libraries and frameworks have made this project possible.
