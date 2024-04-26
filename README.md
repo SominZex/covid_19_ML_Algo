@@ -2,17 +2,17 @@
 Descriptive Research on Covid-19 Dataset
 
 
-Introduction
+## Introduction
 
 This repository hosts a machine learning project aimed at analyzing and predicting trends related to the COVID-19 pandemic. Leveraging machine learning algorithms, we seek to gain insights into the spread of the virus, predict future trends, and assist in decision-making processes related to public health interventions.
 
 
 
-Dataset: 
+## Dataset: 
 The project utilizes publicly available datasets related to COVID-19, including data on confirmed cases, deaths, recoveries, testing rates, vaccination rates, and other relevant metrics. The datasets are sourced from reputable sources such as the World Health Organization (WHO), Centers for Disease Control and Prevention (CDC), and other official health organizations.
 
 
-Tools and Technologies
+## Tools and Technologies
 The project is developed using Python programming language and various libraries and frameworks commonly used in machine learning and data analysis, including but not limited to:
 
 
@@ -25,24 +25,36 @@ Seaborn
 Project Structure
 
 
-The repository is organized as follows:
+# The repository is organized as follows:
 
-dataset: Contains the datasets used in the project.
+## dataset: 
 
-Size of dataset: 199999 Rows & 20 Variables
+Contains the datasets used in the project.
 
-notebooks/: Jupyter notebooks illustrating the data analysis, preprocessing, model training, and evaluation steps.
+## Size of dataset: 199999 Rows & 20 Variables
 
-src/: Python scripts containing reusable code modules for data preprocessing, feature engineering, model training, and evaluation.
+## notebooks: 
 
-models/: Saved machine learning models trained on the COVID-19 datasets.
+Jupyter notebooks illustrating the data analysis, preprocessing, model training, and evaluation steps.
 
-results/: Contains visualizations, reports, and summaries of the project findings.
+## src: 
 
-requirements.txt: Specifies the Python dependencies required to run the project.
+Python scripts containing reusable code modules for data preprocessing, feature engineering, model training, and evaluation.
+
+## models: 
+
+Saved machine learning models trained on the COVID-19 datasets.
+
+## Results: 
+
+Contains visualizations, reports, and summaries of the project findings.
+
+## requirements.txt: 
+
+Specifies the Python dependencies required to run the project.
 
 
-Usage
+## Usage
 
 To run the project locally, follow these steps:
 
